@@ -1,7 +1,9 @@
 site_name: Yii2 Book
+site_description: Рефакторинг приложений, написанных с использованием Yii2
+theme:
+  name: material
+
 nav:
   - Главная: index.md
   - Глава 1: chapter1.md
   - Глава 2: chapter2.md
-theme:
-  name: material
