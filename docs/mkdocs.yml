@@ -1,0 +1,7 @@
+site_name: Yii2 Book
+nav:
+  - Главная: index.md
+  - Глава 1: chapter1.md
+  - Глава 2: chapter2.md
+theme:
+  name: material
